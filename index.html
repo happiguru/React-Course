@@ -7,6 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react-dom.min.js"></script>
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <!-- <script src="./components/App.js"></script> -->
     <title>Learn React</title>
 </head>
 <body>
@@ -14,8 +15,13 @@
 
     </div>
     <script type="text/babel">
+        const App = () => {
+            return (
+                <h1>Hello World There! </h1>
+            )
+        }
         ReactDOM.render(
-            <h1>Hello World </h1>,
+            <App />,
             document.querySelector('#app')
         );
     </script>
