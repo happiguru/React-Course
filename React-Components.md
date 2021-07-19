@@ -96,3 +96,10 @@ Adding the `ReactDOM.render()` function will render our application on screen:
 var mount = document.querySelector('#app');
 ReactDOM.render(<App />, mount);
 ```
+There are two types of components
+
+1. A stateless functional component (https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateless-functional-component)
+
+2. The state -- Class component (https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-react-component)
+
+3. Write a full Class component (https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-react-component-from-scratch)
