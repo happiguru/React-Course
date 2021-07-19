@@ -16,5 +16,5 @@ React - Beginner to Advance
 ### Table of Content
 1. Introduction to React
 2. Understanding JSX
-3. React Component
+3. React Component and advance forms
 4. Understanding React Props and States
