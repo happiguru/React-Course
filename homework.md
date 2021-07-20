@@ -4,4 +4,4 @@
 - Use only React components
 - Esure to breakdown the form design in components.
 
-![screenshot](./images/assignment.png)
+![screenshot](./images/assignment.jpg)
