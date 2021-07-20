@@ -17,4 +17,5 @@ React - Beginner to Advance
 1. Introduction to React
 2. Understanding JSX
 3. React Component and advance forms
-4. Understanding React Props and States
+4. Understanding React Props
+5. Understanding State
