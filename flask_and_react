@@ -1,1 +1,16 @@
+## Python Backend and React Frontend Class
+
+Separating the Backend and the Frontend is highly recommended in the industry. It is easy to maintain
+
+### Build api in your python application that shares backend data as a json file or xml file
+
+### Benefit of REST APIs
+Provides developers with the ability to organize complicated applications into simple resources
+It makes it easier for external clients to build on your REST API without any complications
+It is very easy to scale;
+
+### Build you React application to consume those data sent as json file from the backend
+
+
+
 https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9
